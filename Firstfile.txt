@@ -3,3 +3,6 @@ git init [initializing the git]
 git add[ file added to the space]
 
 git commit [file added to repository]
+
+git status [ listing all untracked files]
+
