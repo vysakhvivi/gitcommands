@@ -6,3 +6,8 @@ git commit [file added to repository]
 
 git status [ listing all untracked files]
 
+git remote add name path [ adding remote ]
+
+git push -u reposioryname master [ pushing the file to repository ]
+
+
